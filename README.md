@@ -1,5 +1,4 @@
 # euro-moneyball
-
 This project involved analyzing a large dataset of 19,000+ soccer players and over 110 attributes sourced from the FIFA 2022 database. The goal was to extract valuable insights from player performance data and identify trends that could be used for talent scouting or team strategy optimization.
 
 Key steps in the project included:
